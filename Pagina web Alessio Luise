@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prima Presentazione</title>
+</head>
+<body>
+    <H1>Prima Presentazione</H1>
+    <img src="https://scontent-fco2-1.xx.fbcdn.net/v/t39.30808-6/397982545_10225764398991714_2137097538557197359_n.jpg?_nc_cat=106&cb=99be929b-b574a898&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=Tg3D799k-ewAX_fxhs_&_nc_ht=scontent-fco2-1.xx&oh=00_AfAbgMGFmjNi34NI-DrPwwRrVV-aDzEKhr6tbOWIgSzGEw&oe=65984946" style="width: 200px" alt="immagine alessio luise"/>
+    <h2>Informazioni di Base</Base></h2>
+    <p>Nome: Alessio</p>
+    <p>Cognome: Luise</p>
+    <p>Data di Nascita: 02/11/1989</p>
+    <p>Luogo di Nascita: Napoli</p>
+    <p>Residenza: Marano di Napoli</p>
+    <p style="color:blue">Indirizzo Mail: aleeesss@icloud.com</p>
+    <h2>Titolo di studio</h2>
+<p>Diploma: Liceo Socile Sperimentale</p>
+<p>Anno accademico: 2010</p>
+<p>Istituto di conseguimento: Sacro Cuore Betlemite</p>
+<h2>Esperienze Lavorative</h2>
+<ol> <li>Assistente Amministrativo per ASL Napoli 2 Nord: 2020-22</li>
+<li>Sales Clerk per Gamestop: 2016-17</li>
+<li> Videomaker Tornei S-Cup: 2013-2016</li>
+</ol>
+<h2>Attestati e Corsi di Formazione</h2>
+<ul> <li>Corso di Operatore CAF e padronato: 2022</li>
+<li>Pekit Expert: 2021</li>
+<li>Addestramento Professionale in Dattilografia e Servizi Meccanografici:2021</li>
+<li>Corso di Semplificazione Amministrativa: 2020</li>
+</ul> 
+<a href="https://www.linkedin.com/in/alessio-luise-0a502623a/"><h5>Vai su Linkedin</h5></a>
+</body>
+</html>
